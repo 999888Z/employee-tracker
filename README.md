@@ -4,7 +4,7 @@
 A command line application for managing an employee database.
 
 ## Screenshot of Application
-<img src="./Assets/image/employee-tracker-screenshot.png" alt="screenshot">
+<img src="./assets/image/employee-tracker-screenshot.png" alt="screenshot">
 
 ## Table of Contents
 - [Installation](#Installation)
