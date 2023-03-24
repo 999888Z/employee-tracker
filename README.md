@@ -14,7 +14,7 @@ A command line application for managing an employee database.
 - [Tests](#Tests)
 - [Questions](#Questions)
 ## Installation
-Type "npm start" on the Terminal command line.
+Type "npm start" on the Terminal command line. My password for SQL has been removed for security reasons. You will have to open the program in a code editor and put in your own SQL password. 
 ## Usage
 Follow the instructions on the prompts after starting the app, in order to either view or update the employee database.
 ## License
